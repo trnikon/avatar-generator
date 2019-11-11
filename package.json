@@ -41,7 +41,7 @@
   "dependencies": {
     "commander": "^2.18.0",
     "seedrandom": "^2.4.4",
-    "sharp": "^0.20.8"
+    "sharp": "^0.23.2"
   },
   "engines": {
     "node": ">=6.0",
