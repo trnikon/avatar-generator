@@ -3,14 +3,14 @@
   "version": "2.0.0",
   "main": "lib/index.js",
   "description": "8bit avatar generator. Inspired by https://github.com/matveyco/8biticon",
-  "homepage": "https://github.com/arusanov/avatar-generator",
-  "bugs": "https://github.com/arusanov/avatar-generator/issues",
+  "homepage": "https://github.com/trnikon/avatar-generator",
+  "bugs": "https://github.com/trnikon/avatar-generator/issues",
   "author": {
     "name": "arusanov"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/arusanov/avatar-generator"
+    "url": "https://github.com/trnikon/avatar-generator"
   },
   "license": "MIT",
   "typings": "./lib/index.d.ts",
